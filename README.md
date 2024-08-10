@@ -10,7 +10,7 @@ The **Health Monitoring and Analysis** project involves analyzing health-related
 - **Statistical Analysis**: Summary statistics provide a quick overview of the central tendencies, dispersion, and shape of the data distribution.
 - **Visualizations**: 
   - Distribution plots for numerical health metrics.
-  - Gender distribution pie chart.
+  - Gender distribution co-releation chart.
   - Correlation heatmap to identify relationships between health metrics.
   - Boxplots to analyze heart rate and oxygen saturation by gender, sleep quality, stress level, and activity level.
   - Blood pressure distribution histograms.
